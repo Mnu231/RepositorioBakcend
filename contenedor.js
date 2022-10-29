@@ -143,4 +143,4 @@ class Contenedor {
     }
 
 }
-module.exports = Contenedor;
+export default Contenedor;

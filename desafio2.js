@@ -1,3 +1,4 @@
+
 const fs = require('fs');
 
 fs.writeFileSync('./archivo1.txt','bruh')
