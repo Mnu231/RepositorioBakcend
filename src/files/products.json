@@ -1,0 +1,14 @@
+[
+  {
+    "tittle": "remera",
+    "price": "1500",
+    "thumbnail": "http://localhost:8080/images/1667433240662-Elmanuneitor.jpg",
+    "id": 2
+  },
+  {
+    "tittle": "remera",
+    "price": "1500",
+    "thumbnail": "http://localhost:8080/images/1667433240662-Elmanuneitor.jpg",
+    "id": 3
+  }
+]
