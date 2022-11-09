@@ -10,5 +10,15 @@
     "price": "1500",
     "thumbnail": "http://localhost:8080/images/1667433240662-Elmanuneitor.jpg",
     "id": 3
+  },
+  {
+    "tittle": "bro",
+    "price": "123",
+    "thumbnail": "http://localhost:8080/images/1667677668140-buzo1.jfif"
+  },
+  {
+    "tittle": "bro",
+    "price": "123",
+    "thumbnail": "http://localhost:8080/images/1667677797630-buzo1.jfif"
   }
 ]
